@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CFApiApp</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Thu, 23 Jul 2026 04:19:40 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fernandocani/sparkle_updater/releases/download/prod/CFApiApp.dmg" length="32546816" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
