@@ -3,12 +3,12 @@
     <channel>
         <title>CFApiApp</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Sun, 26 Jul 2026 20:03:58 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>0.10</title>
+            <pubDate>Sun, 26 Jul 2026 22:26:00 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fernandocani/sparkle_updater/releases/download/v0.9/CFApiApp.dmg" length="2903840" type="application/octet-stream" sparkle:edSignature="Wtr03y7v4rVv09JahRCBA8TuscaugmYITLg4BEIVmv9O9zlL23ZiypNLEwuuRgwVyuDGfEbB6pPS6MLJiR9RCw=="/>
+            <enclosure url="https://github.com/fernandocani/sparkle_updater/releases/download/v0.10/CFApiApp.dmg" length="2910071" type="application/octet-stream" sparkle:edSignature="SIE6CVWg7QskTZLsN9ptWl/FEzpKTy3GV4UF21MeOj1bcwontTLqG9VNN698Ols8e0dqpXZazrpkMN1moUNSDg=="/>
         </item>
     </channel>
 </rss>
